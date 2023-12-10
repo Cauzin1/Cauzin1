@@ -1,11 +1,10 @@
 ## Olá! Me chamo Thomás Causin ⚡
 
-Desenvolvedor de Software há aproximadamente 1 ano, atualmente trabalhando como Desenvolvedor Back End Jr
-na OKN-group
-Cursando Ciência da Computação na Universidade Federal de Juiz de Fora. Trabalho com Typescript, JS e vue
-Experiência em React e node
-Experiência em Postgres, MongoDb e MySQL
-Apaixonado por novos desafios diários, Tecnologias, jogos e esportes.
+Desenvolvedor de Software há aproximadamente 1 ano, atualmente trabalhando como Desenvolvedor Back End Jr na OKN-group <br>
+Cursando Ciência da Computação na Universidade Federal de Juiz de Fora. Trabalho com Typescript, JS e vue <br>
+Experiência em React e node <br>
+Experiência em Postgres, MongoDb e MySQL <br>
+Apaixonado por novos desafios diários, Tecnologias, jogos e esportes. <br><br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thom%C3%A1s-causin-076532207/)
 
