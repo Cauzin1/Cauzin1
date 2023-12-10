@@ -1,4 +1,10 @@
-## Olá! Eu sou o Matheus Fraga 🖐️
+## Olá! Me chamo Thomás Causin ⚡
+
+Desenvolvedor de Software há aproximadamente 1 ano, atualmente trabalhando como Desenvolvedor Back End Jr na OKN-group
+Cursando Ciência da Computação na Universidade Federal de Juiz de Fora. Trabalho com Typescript, JS e vue
+Experiência em React e node
+Experiência em Postgres, MongoDb e MySQL
+Apaixonado por novos desafios diários, Tecnologias, jogos e esportes.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thom%C3%A1s-causin-076532207/)
 
@@ -16,4 +22,4 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
