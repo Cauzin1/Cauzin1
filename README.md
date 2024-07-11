@@ -9,7 +9,6 @@ Apaixonado por novos desafios diários, Tecnologias, jogos e esportes. <br><br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thom%C3%A1s-causin-076532207/)
 
 
-![Cauzin1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cauzin1&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
