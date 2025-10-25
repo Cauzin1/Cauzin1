@@ -1,6 +1,6 @@
 ## Olá! Me chamo Thomás Causin ⚡
 
-Desenvolvedor de Software há aproximadamente 1 ano, atualmente trabalhando como Desenvolvedor Back End Jr na OKN-group <br>
+Desenvolvedor de Software há aproximadamente 1 ano, atualmente trabalhando como Desenvolvedor Back End Jr na Panda Video <br>
 Cursando Ciência da Computação na Universidade Federal de Juiz de Fora. Trabalho com Typescript, JS e vue <br>
 Experiência em React e node <br>
 Experiência em Postgres, MongoDb e MySQL <br>
